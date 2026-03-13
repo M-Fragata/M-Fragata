@@ -36,8 +36,13 @@ Atualmente cursando Engenharia de Software e focado em construir soluções robu
 ### 📊 Estatísticas do GitHub
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=M-Fragata&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-Fragata&layout=compact&theme=dark&langs_count=6" alt="Top Languages" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=M-Fragata&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180" />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=M-Fragata&theme=dark" alt="GitHub Streak" height="180" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-Fragata&layout=compact&theme=dark&langs_count=8&hide_border=false" alt="Top Languages" height="180" />
 </p>
 
 ---
