@@ -8,10 +8,10 @@ Atualmente cursando Engenharia de Software e focado em construir soluções robu
 
 ### 🎓 Formação Acadêmica
 
-- 🏗️ **Graduado em Engenharia Civil** | Universidade de Vassouras
-- 📐 **Graduado em Licenciatura em Matemática** | (Conclusão em 2026)
-- 🎓 **Graduando em Engenharia de Software** | Uninter
-- 💻 **Junior Fullstack Developer** | Maricá, RJ
+- 🏗️ **Graduado em Engenharia Civil** | Universidade de Vassouras | (Concluído)
+- 📐 **Graduado em Licenciatura em Matemática** | UNIFATECIE | (Conclusão em 2026)
+- 🎓 **Graduando em Engenharia de Software** | ESTACIO | (EM ANDAMENTO)
+- 💻 **Fullstack Developer** | Maricá, RJ
 
 ---
 
