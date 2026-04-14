@@ -1,6 +1,6 @@
 # Olá! Eu sou o Matheus Fragata 🚀
 
-### Engenheiro Civil & Matemático | Fullstack Developer em Transição
+### Engenheiro Civil & Matemático | Fullstack Developer
 
 Atualmente cursando Engenharia de Software e focado em construir soluções robustas e escaláveis. Minha base sólida em **Engenharia Civil** e **Matemática** me proporciona um raciocínio lógico avançado e facilidade com algoritmos complexos.
 
