@@ -10,7 +10,7 @@ Atualmente cursando Engenharia de Software e focado em construir soluções robu
 
 - 🏗️ **Graduado em Engenharia Civil** | Universidade de Vassouras | (Concluído)
 - 📐 **Graduado em Licenciatura em Matemática** | UNIFATECIE | (Conclusão em 2026)
-- 🎓 **Graduando em Engenharia de Software** | ESTACIO | (EM ANDAMENTO)
+- 🎓 **Graduando em Engenharia de Software** | ESTÁCIO | (EM ANDAMENTO)
 - 💻 **Fullstack Developer** | Maricá, RJ
 
 ---
@@ -28,9 +28,18 @@ Atualmente cursando Engenharia de Software e focado em construir soluções robu
 
 ### 📜 Certificações
 
-- 🚀 **Rocketseat** - Formação Fullstack (Node.js, React, TypeScript)
-- 🎥 **Curso em Vídeo (Gustavo Guanabara)** - HTML5 e CSS3 (Módulos 1 ao 5)
-- 🎥 **Curso em Vídeo (Gustavo Guanabara)** - Algoritmos e JavaScript
+#### 🚀 Rocketseat (Especialização Fullstack)
+- **Formação Fullstack** (Em andamento) - *Node.js, React, TypeScript*
+- **[Introdução ao Node.js](https://app.rocketseat.com.br/certificates/74f6f3dc-3496-4c27-8f37-614e6f2afb98)** (50h) - APIs REST, Prisma, Docker e Testes.
+- **[JavaScript](https://app.rocketseat.com.br/certificates/e26e1280-70bd-4baa-b8c8-390554d97a7c)** (31h) - Lógica avançada, Assincronismo e POO.
+- **[Introdução ao React](https://app.rocketseat.com.br/certificates/94bf983d-a9b9-48f4-8516-e299ee9fcbb3)** (15h) - Hooks, Tailwind CSS e Consumo de APIs.
+- **[Fundamentos de HTML e CSS](https://app.rocketseat.com.br/certificates/e83c07f4-8921-4496-a9d3-ele2d42951e9)** (30h) - Semântica, Grid e Flexbox.
+- **[O básico de Git e GitHub](https://app.rocketseat.com.br/certificates/7d4fb524-f697-4e07-a978-16291d947201)** (1h) - Versionamento e Colaboração.
+
+#### 🎥 Curso em Vídeo (Base Técnica)
+- **HTML5 e CSS3 (Módulos 1 ao 5)** - Design responsivo e fundamentos web.
+- **JavaScript e Algoritmos** - Lógica de programação e manipulação do DOM.
+- **Banco de Dados MySQL** - Modelagem e consultas relacionais.
 
 ---
 
