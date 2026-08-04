@@ -29,7 +29,7 @@ Atualmente cursando Engenharia de Software e focado em construir soluções robu
 ### 📜 Certificações
 
 #### 🚀 Rocketseat (Especialização Fullstack)
-- **Formação Fullstack** (Em andamento) - *Node.js, React, TypeScript*
+- **[Formação Fullstack](https://app.rocketseat.com.br/certificates/289aceb3-0b15-43e3-8619-d97e5c665aa7)** (181h) - *Node.js, React, TypeScript*
 - **[Introdução ao Node.js](https://app.rocketseat.com.br/certificates/74f6f3dc-3496-4c27-8f37-614e6f2afb98)** (50h) - APIs REST, Prisma, Docker e Testes.
 - **[JavaScript](https://app.rocketseat.com.br/certificates/e26e1280-70bd-4baa-b8c8-390554d97a7c)** (31h) - Lógica avançada, Assincronismo e POO.
 - **[Introdução ao React](https://app.rocketseat.com.br/certificates/94bf983d-a9b9-48f4-8516-e299ee9fcbb3)** (15h) - Hooks, Tailwind CSS e Consumo de APIs.
